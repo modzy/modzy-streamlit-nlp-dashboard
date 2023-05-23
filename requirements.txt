@@ -1,0 +1,4 @@
+streamlit
+modzy-sdk
+pdf2image
+python-poppler
